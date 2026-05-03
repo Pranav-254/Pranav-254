@@ -4,8 +4,6 @@
 I am a Data Science student currently pursuing an M.Sc. in Data Science at the University of Mumbai, with a solid foundation in Statistics. My work focuses on leveraging data visualization, statistical analysis, and machine learning to solve complex problems.
 
 - 🎓 **Education:** B.Sc. in Statistics | M.Sc. in Data Science
-- 📈 **Current Focus:** Statistical modeling, multivariate analysis, and multi-channel attribution strategies.
-- 🏛️ **Professional Role:** Coordinator at the UDCS Placement Cell, University of Mumbai.
 
 ---
 
@@ -37,20 +35,9 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
 
 ---
 
-### 📂 Featured Projects
-
-*   **[Customer Segmentation & Attribution](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-    *   Multi-channel attribution modeling using Python, visualized through Power BI.
-*   **[Mumbai Real Estate Analysis](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-    *   Statistical analysis of 5-year rent price trends vs. inflation.
-*   **[Pokémon Battle Logic](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-    *   Python-based algorithm for optimal type-matchup and team counters.
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="pranavmore254@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
