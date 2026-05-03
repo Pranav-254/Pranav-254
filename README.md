@@ -1,6 +1,6 @@
-# Hi there! 👋
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=5fafff&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Pranav!" alt="Typing SVG" /></p>
 
-### 🚀 About Me
+### About Me
 I am a Data Science student currently pursuing an M.Sc. in Data Science at the University of Mumbai, with a solid foundation in Statistics. My work focuses on leveraging data visualization, statistical analysis, and machine learning to solve complex problems.
 
 - 🎓 **Education:** B.Sc. in Statistics | M.Sc. in Data Science
@@ -29,7 +29,7 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL |
+| **Languages** | Python, SQL, Excel |
 | **Data Tools** | Power BI, Tableau, Apache Spark |
 | **Methodologies** | ANOVA, Hypothesis Testing, Regression |
 
