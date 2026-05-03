@@ -30,7 +30,7 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, SQL, Excel |
-| **Data Tools** | Power BI, Tableau, Apache Spark |
+| **Data Tools** | Power BI, Tableau |
 | **Methodologies** | ANOVA, Hypothesis Testing, Regression |
 
 ---
