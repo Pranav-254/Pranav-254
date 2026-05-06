@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=5fafff&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Pranav!" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Pranav!👋" alt="Typing SVG" /></p>
 
 ### About Me
 I am a Data Science student currently pursuing an M.Sc. in Data Science at the University of Mumbai, with a solid foundation in Statistics. My work focuses on leveraging data visualization, statistical analysis, and machine learning to solve complex problems.
@@ -25,15 +25,17 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
 
 ---
 
-### 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, SQL, Excel |
-| **Data Tools** | Power BI, Tableau |
-| **Methodologies** | ANOVA, Hypothesis Testing, Regression |
+### 🛠️ Tech Stack & Skills
 
----
+**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Visualization Tools** ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+------
 
 ### 📫 Let's Connect
 
