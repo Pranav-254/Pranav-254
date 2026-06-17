@@ -7,7 +7,7 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
 
 ---
  
-`` ### 📊 GitHub Stats
+``  ### 📊 GitHub Stats
 
 <!-- Responsive Stats: Automatically switches theme based on user's GitHub setting -->
 
@@ -21,7 +21,7 @@ I am a Data Science student currently pursuing an M.Sc. in Data Science at the U
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-254&layout=compact&theme=radical&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-254&layout=compact&theme=default&hide_border=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-254&layout=compact&theme=default&hide_border=true">
-</picture>``
+</picture> ``
 
 ---
 
